@@ -1,0 +1,9 @@
+.reserved-dragons {
+  border: 0.5px solid grey;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding-left: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.nav-lists {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 50px 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.items-list {
+  margin: 0 40px 0 15px;
+  font-size: 1.3em;
+}
+
+.hr {
+  background-color: #000;
+  height: 1px;
+  margin-top: 15px;
+}
+
+.logo {
+  width: 100px;
+}
+
+.space-hub {
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+.mission-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 5px;
+}
+
+.mission-profile h1 {
+  width: max-content;
+}
+
+.table {
+  width: 100%;
+  padding: 10px;
+}
+
+.mission,
+.status {
+  text-align: start;
+  width: 10%;
+  padding: 10px;
+}
+
+.description {
+  width: 60%;
+  padding: 20px;
+}
+
+.col {
+  text-align: start;
+  padding: 20px;
+}
+
+.member {
+  background: gray;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.bg-color {
+  background: blue;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.button {
+  height: 28px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+}
+
+.button-cancel {
+  border: 1px solid red;
+  color: red;
+  background-color: #fff;
+}
+
+.table tr,
+.table td {
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+.profile-section {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.mission-container {
+  width: 33.33%;
+}
+
+.mission-list {
+  border: 0.5px solid grey;
+  padding: 12px;
+  width: 300px;
+  margin: 0;
+  border-radius: 4px;
+}
+
+.button-container {
+  align-items: center;
+}
+
+.dragons-profile {
+  flex-basis: 33.33%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.ul-list-item {
+  border: 0.5px solid grey;
+  padding: 5px;
+  height: 50px;
+  border-radius: 4px;
+}
