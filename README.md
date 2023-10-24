@@ -49,11 +49,11 @@
   <summary>Client</summary>
   <ul>
     <li><a href="#">Javascript</a></li>
-     <li><a href="#">HTML</a></li>
-      <li><a href="#">CSS</a></li>
-       <li><a href="#">React</a></li>
-       <li><a href="#">React-Redux</a></li>
-       <li><a href="#">React-Redux/Reduxjs/Toolkit</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="#">React</a></li>
+    <li><a href="#">React-Redux</a></li>
+    <li><a href="#">React-Redux/Reduxjs/Toolkit</a></li>
   </ul>
 </details>
 
@@ -78,6 +78,12 @@
 - **[key_feature_3]** Professional readme file
 - **[key_feature_1]** Configured linters for react app
 - **[key_feature_2]** Basic CRUD for missions, dragons and rockets application using React
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
